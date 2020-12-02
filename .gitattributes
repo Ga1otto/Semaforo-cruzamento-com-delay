@@ -2,12 +2,12 @@ Semáforo cruzamento com delay
 Primeiro reporsitório curso em vídeo git e github
 void setup() 
 {
-  pinMode(13, OUTPUT); //define o pino 13 como saída
-  pinMode(5, OUTPUT); //define o pino 5 como saída
-  pinMode(6, OUTPUT); //define o pino 6 como saída
-  pinMode(7, OUTPUT); //define o pino 7 como saída
-  pinMode(11, OUTPUT); //define o pino 11 como saída
-  pinMode(12, OUTPUT); //define o pino 12 como saída
+  pinMode(13, OUTPUT); // define o pino 13 como saída
+  pinMode(5, OUTPUT); // define o pino 5 como saída
+  pinMode(6, OUTPUT); // define o pino 6 como saída
+  pinMode(7, OUTPUT); // define o pino 7 como saída
+  pinMode(11, OUTPUT); // define o pino 11 como saída
+  pinMode(12, OUTPUT); // define o pino 12 como saída
 }
 
 void loop()
